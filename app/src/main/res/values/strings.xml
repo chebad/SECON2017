@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SECON2017</string>
+    <string name="title_activity_map">Map</string>
+    <string name="email_toast_message_error">Brak aplikacji, która umożliwiłaby wysyłanie e-mail...</string>
+    <string name="phone_toast_message_error">Nie można wykonać operacji, proszę wybrać numer manualnie...</string>
+    <string name="website_toast_message_error">Nie można wykonać operacji, proszę wyszukać stronę manualnie...</string>
+    <string name="register">Zgłoszenie</string>
+    <string name="sponsors_button_toast_message_error">Nie można wykonać operacji, proszę wejść na stronę konferencji...</string>
+    <string name="label_secon_party">SECON 2017     |    IMPREZA</string>
+    <string name="label_secon_place_of_conference">SECON 2017     |    BIBLIOTEKA WAT</string>
+    <string name="secon_mail">secon@wat.edu.pl</string>
+    <string name="secon_website">http://secon.wel.wat.edu.pl</string>
+    <string name="secon_phone_number">261 837 123</string>
+    <string name="choose_app">Wybierz aplikację...</string>
+    <string name="map_app_avalible_toast_message_error">Sprawdź czy jest dostępna na Twoim telefonie aplikacja do prezentacji mapy.</string>
+    <string name="schedule_of_conference">Harmonogram konferencji</string>
+    <string name="location_of_conference">Miejsce konferencji</string>
+    <string name="location_of_party">Miejsce imprezy</string>
+    <string name="offer_for_sponsors">Oferta dla firm</string>
+    <string name="contact">Kontakt</string>
+</resources>
